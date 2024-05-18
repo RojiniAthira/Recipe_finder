@@ -19,17 +19,17 @@ Welcome to Recipe Finder App! This application helps you discover a wide variety
 To run this project locally, follow these steps:
 
 1. Clone this repository to your local machine.
-2. Navigate to the project directory.
-3. Install dependencies by running:
+2. Navigate to the `server` directory.
+3. Install dependencies and start the backend server by running:
 ```
    npm install
+   npm start
 ```
-5. Start the backend server by running:
-   npm start
-6. Navigate to the `client` directory:
-7. Install frontend dependencies by running:
+4. Navigate to the `client` directory:
+5. Install dependencies and start the frontend server by running:
+```
    npm install
-8. Start the frontend server by running:
    npm start
+```
 
 Once both the backend and frontend servers are running, you can access the application by navigating to `http://localhost:3000` in your web browser.
