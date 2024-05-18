@@ -21,13 +21,15 @@ To run this project locally, follow these steps:
 1. Clone this repository to your local machine.
 2. Navigate to the project directory.
 3. Install dependencies by running:
+```
    npm install
-4. Start the backend server by running:
+```
+5. Start the backend server by running:
    npm start
-5. Navigate to the `client` directory:
-6. Install frontend dependencies by running:
+6. Navigate to the `client` directory:
+7. Install frontend dependencies by running:
    npm install
-7. Start the frontend server by running:
+8. Start the frontend server by running:
    npm start
 
 Once both the backend and frontend servers are running, you can access the application by navigating to `http://localhost:3000` in your web browser.
